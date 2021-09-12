@@ -8,6 +8,7 @@ using Microsoft.Extensions.Logging;
 namespace dotnetcoreApp.Controllers
 {
     [ApiController]
+
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
