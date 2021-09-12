@@ -14,6 +14,8 @@ namespace dotnetcoreApp
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            // comment new code
+            
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

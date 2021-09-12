@@ -16,7 +16,10 @@ namespace dotnetcoreApp.Controllers
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
-
+        private void newMethod()
+        {
+            
+        }
 
         public WeatherForecastController()
         {
