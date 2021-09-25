@@ -19,6 +19,7 @@ namespace dotnetcoreApp.Controllers
         private void newMethod()
         {
          // new code 
+         string ss="";
             
         }
 
